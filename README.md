@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0520-detect-capital](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0520-detect-capital) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Math
 |  |
