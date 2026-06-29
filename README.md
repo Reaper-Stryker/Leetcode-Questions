@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0507-perfect-number](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
