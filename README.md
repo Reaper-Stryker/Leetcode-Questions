@@ -11,4 +11,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
