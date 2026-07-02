@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0520-detect-capital) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
@@ -64,5 +66,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
