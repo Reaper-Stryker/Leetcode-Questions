@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0392-is-subsequence) |
+| [0409-longest-palindrome](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0409-longest-palindrome) |
 | [0520-detect-capital](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0520-detect-capital) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0389-find-the-difference) |
+| [0409-longest-palindrome](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0409-longest-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0257-binary-tree-paths) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
