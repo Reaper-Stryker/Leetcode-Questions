@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0520-detect-capital) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0509-fibonacci-number) |
@@ -110,5 +112,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
