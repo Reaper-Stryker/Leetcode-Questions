@@ -116,4 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0415-add-strings) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
