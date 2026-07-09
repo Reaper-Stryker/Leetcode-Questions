@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0168-excel-sheet-column-title) |
+| [0367-valid-perfect-square](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0507-perfect-number) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0367-valid-perfect-square) |
 ## Interactive
 |  |
 | ------- |
