@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0704-binary-search) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## String
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0441-arranging-coins) |
+| [0704-binary-search](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0704-binary-search) |
 ## Interactive
 |  |
 | ------- |
