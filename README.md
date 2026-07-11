@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0704-binary-search](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0704-binary-search) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
 | ------- |
@@ -75,11 +76,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0392-is-subsequence) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0389-find-the-difference) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Queue
 |  |
 | ------- |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0704-binary-search) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Interactive
 |  |
 | ------- |
