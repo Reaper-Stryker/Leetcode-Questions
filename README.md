@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0704-binary-search) |
+| [1331-rank-transform-of-an-array](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0409-longest-palindrome) |
+| [1331-rank-transform-of-an-array](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0389-find-the-difference) |
+| [1331-rank-transform-of-an-array](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Queue
 |  |
