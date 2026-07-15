@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0509-fibonacci-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -141,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0374-guess-number-higher-or-lower) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
