@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0242-valid-anagram) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0043-multiply-strings) |
 | [0168-excel-sheet-column-title](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0168-excel-sheet-column-title) |
 | [0367-valid-perfect-square](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0412-fizz-buzz) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0415-add-strings) |
 ## Binary Search
