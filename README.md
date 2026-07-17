@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0043-multiply-strings) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0383-ransom-note) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Two Pointers
 |  |
