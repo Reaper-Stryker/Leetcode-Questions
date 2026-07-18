@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0704-binary-search) |
 | [1331-rank-transform-of-an-array](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0509-fibonacci-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
@@ -154,5 +156,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
