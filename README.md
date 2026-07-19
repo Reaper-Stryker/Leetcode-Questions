@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0015-3sum) |
 | [0704-binary-search](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0704-binary-search) |
 | [1331-rank-transform-of-an-array](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0278-first-bad-version](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0374-guess-number-higher-or-lower) |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
