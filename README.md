@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0383-ransom-note) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0344-reverse-string](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0392-is-subsequence) |
@@ -174,4 +176,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
