@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0257-binary-tree-paths) |
+| [0547-number-of-provinces](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -179,4 +180,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0142-linked-list-cycle-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0547-number-of-provinces) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
