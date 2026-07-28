@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0290-word-pattern) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0043-multiply-strings) |
 | [0168-excel-sheet-column-title](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0412-fizz-buzz) |
