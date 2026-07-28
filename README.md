@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0415-add-strings) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0389-find-the-difference) |
 ## Backtracking
 |  |
