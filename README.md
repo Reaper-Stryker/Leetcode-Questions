@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0200-number-of-islands](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0704-binary-search](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0547-number-of-provinces) |
 ## Binary Tree
@@ -233,10 +235,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0547-number-of-provinces) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
@@ -264,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0023-merge-k-sorted-lists) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Reaper-Stryker/Leetcode-Questions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
